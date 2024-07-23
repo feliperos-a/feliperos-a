@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D16AQE8IAjVK3Szhg/profile-displaybackgroundimage-shrink_350_1400/0/1721767024818?e=1727308800&v=beta&t=iZAj_ZNfeC0c9Mt4pa_sW97cweERcIHtVl3fux2Y5GE" alt="Banner">
+</p>
+
+
 Meu nome é Felipe Rosa. Minha primeira graduação foi em Engenharia Ambiental e Sanitária, mas minha paixão por tecnologia me levou a iniciar em 2023 o curso de Análise e Desenvolvimento de Sistemas pela Unochapecó. Atualmente, sou um desenvolvedor iniciante, mergulhado no mundo da programação e buscando criar soluções inovadoras e impactantes. 🚀
 
 
