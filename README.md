@@ -10,9 +10,9 @@ Meu nome é Felipe Rosa. Minha primeira graduação foi em Engenharia Ambiental 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=feliperos-a&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Rosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperos-a&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=feliperos-a&show_icons=true&count_private=true&hide_border=true&title_color=b3147b&icon_color=b3147b&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Rosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperos-a&layout=compact&hide_border=true&title_color=b3147b&text_color=b3147b&bg_color=0d1117" />
 </div>
 
 
-⚡ “Inteligência é a capacidade de se adaptar às mudanças” – Stephen Hawking
+⚡ "Lembre-se de olhar para as estrelas e não para os seus pés. Tente dar sentido ao que você vê e pergunte-se o que faz o universo existir. Seja curioso." — Stephen Hawking 
