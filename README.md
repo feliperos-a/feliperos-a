@@ -15,4 +15,4 @@ Meu nome é Felipe Rosa. Minha primeira graduação foi em Engenharia Ambiental 
 </div>
 
 
-⚡ "Lembre-se de olhar para as estrelas e não para os seus pés. Tente dar sentido ao que você vê e pergunte-se o que faz o universo existir. Seja curioso." — Stephen Hawking 
+⚡ Lembre-se de olhar para as estrelas e não para baixo, para os seus pés. Tente achar sentido no que você vê e pergunte sobre o que faz o Universo existir. Seja curioso." — Stephen Hawking
